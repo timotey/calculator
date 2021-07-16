@@ -1,6 +1,6 @@
-#Calculator
+# Calculator
 a simple infix calculator written in Haskell
-##Features
+## Features
 - Addition
 - Subtraction
 - Multiplication
